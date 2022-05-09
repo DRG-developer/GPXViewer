@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/untitled.dir/main.cpp.o -o untitled  -lSDL2 /usr/lib/x86_64-linux-gnu/libpugixml.a 
